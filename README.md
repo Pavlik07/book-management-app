@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 To run the application locally:
 
 1) Clone this repository to your local machine using the following command:      git clone https://github.com/Pavlik07/book-management-app.git
@@ -12,6 +11,3 @@ To run the application locally:
 5) Start the App:      npm run dev
 
 6) Open the App in browser -       pass this link into the browser window: http://localhost:3000
-=======
-Navigate to the master branch
->>>>>>> 53c154c7a4912e0f7245efd9b8a345c876ccde56
