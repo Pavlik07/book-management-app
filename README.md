@@ -16,3 +16,5 @@ To run the application locally:
 {
   "books": []
 }
+
+Don't forget to be in the correct directory for these commands to work, opening new terminals will change your directory and you will need to enter this comman again before using other commands:   cd book-management-app
