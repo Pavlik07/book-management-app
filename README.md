@@ -10,7 +10,7 @@ To run the application locally:
 
 5) Start the App (Vite):      npm run dev
 
-6) Open the App in browser -       paste this URL: http://localhost:5173/
+6) Open the App in browser -       paste this URL: http://localhost:5173/   or open the url given in the terminal if this link is already taken by another app.
 
 7) You can also delete all previous book data by replacing the content of db.json with:
 {
