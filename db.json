@@ -1,0 +1,62 @@
+{
+  "books": [
+    {
+      "title": "How to",
+      "author": "Kira",
+      "category": "Science",
+      "isbn": "222222",
+      "createdAt": "2025-03-05T11:13:19.634Z",
+      "modifiedAt": "2025-03-05T11:31:39.127Z",
+      "isActive": false,
+      "id": "42df"
+    },
+    {
+      "id": "6b58",
+      "title": "Tailor",
+      "author": "Me",
+      "category": "Non-Fiction",
+      "isbn": "9999999",
+      "createdAt": "2025-03-05T11:27:25.718Z",
+      "modifiedAt": "2025-03-06T14:40:58.778Z",
+      "isActive": true
+    },
+    {
+      "title": "How to",
+      "author": "Kira",
+      "category": "Science",
+      "isbn": "111111",
+      "createdAt": "2025-03-06T12:47:27.979Z",
+      "modifiedAt": "2025-03-06T14:36:57.907Z",
+      "isActive": true,
+      "id": "5e0b"
+    },
+    {
+      "title": "Hello",
+      "author": "Lira",
+      "category": "Fiction",
+      "isbn": "333333",
+      "createdAt": "2025-03-06T13:25:34.970Z",
+      "modifiedAt": "2025-03-06T13:38:21.764Z",
+      "isActive": true,
+      "id": "c843"
+    },
+    {
+      "id": "651c",
+      "title": "Ta",
+      "author": "Kon",
+      "category": "Fiction",
+      "isbn": "123456",
+      "createdAt": "2025-03-06T13:31:13.173Z",
+      "isActive": true
+    },
+    {
+      "id": "b9ed",
+      "title": "Hahaha",
+      "author": "Elena",
+      "category": "Fiction",
+      "isbn": "555555",
+      "createdAt": "2025-03-07T11:29:35.700Z",
+      "isActive": true
+    }
+  ]
+}
